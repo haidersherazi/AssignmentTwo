@@ -1,0 +1,2 @@
+Car { id = 2, make = Toyota, model = Prius, yearOfManufacture = 2019, color = Blue, price = 21000.0, registrationNumber = LGH323 }
+Car { id = 14, make = Kia, model = Sportage, yearOfManufacture = 2019, color = Brown, price = 38000.0, registrationNumber = RYT009 }

@@ -1,0 +1,1 @@
+Car { id = 12, make = Kia, model = Picanto, yearOfManufacture = 2020, color = White, price = 13000.0, registrationNumber = HGY567 }

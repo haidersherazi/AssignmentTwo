@@ -1,0 +1,3 @@
+Car { id = 8, make = Honda, model = Civic, yearOfManufacture = 2017, color = Blue, price = 16000.0, registrationNumber = SFF163 }
+Car { id = 9, make = Honda, model = Accord, yearOfManufacture = 2022, color = Grey, price = 27000.0, registrationNumber = ABH563 }
+Car { id = 10, make = Honda, model = City, yearOfManufacture = 2019, color = White, price = 14000.0, registrationNumber = PKG323 }
